@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: live-kazino-dlya-sng.github.io
+Sitemap: https://live-kazino-dlya-sng.github.io/sitemap.xml
